@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Example Task 1",
+    "description": "This is an example task.",
+    "category": "Work",
+    "completed": false
+  },
+  {
+    "title": "Example Task 2",
+    "description": "This is another example task.",
+    "category": "Personal",
+    "completed": true
+  }
+]
